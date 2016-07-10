@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <dev.dworks.libs.astickyheader.ui.PinnedSectionGridView
+        android:id="@+id/grid"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/white"
+        android:choiceMode="singleChoice"
+        android:columnWidth="100dp"
+        android:drawSelectorOnTop="true"
+        android:focusable="false"
+        android:gravity="center"
+        android:horizontalSpacing="0dp"
+        android:numColumns="auto_fit"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:scrollbarStyle="outsideOverlay"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="0dp" />
+
+
+</LinearLayout>

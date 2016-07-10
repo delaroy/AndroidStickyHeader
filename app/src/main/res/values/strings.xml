@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StickyHeader</string>
+    <string name="app_ver">Another Sticky Header v1.2</string>
+    <string name="app_company">Developed By Delaroy Studios</string>
+    <string name="app_url">http://www.delaroystudios.com</string>
+    <string name="app_about_info">To make a small difference.</string>
+    <string name="app_contrib">Contributions by Delaroy Studios</string>
+    <string name="app_about">This library can be used to have sticky headers for both grid and list views</string>
+    <string name="twitter"><a href="https://twitter.com/delaroystudios"> Twitter</a></string>
+    <string name="gplus"><a href="https://plus.google.com/u/0/+DelaroyStudios"> Google+</a></string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_grid">Sticky Grid Headers</string>
+    <string name="title_activity_list">Sticky List Headers</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
